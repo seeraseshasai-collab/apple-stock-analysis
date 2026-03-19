@@ -24,9 +24,19 @@ Verify if the uv is installed
 ```
 uv --version
 ```
-# Step2: Clone
-git clone ---
-cd 
+# Step2: Install git (if not installed)
+
+
+
+
+# Step3: Clone
+
+- Open your project folder and open git bash
+- Run the below command
+```
+git clone (https://github.com/seeraseshasai-collab/apple-stock-analysis.git)
+```
+
 
 # Step3: install libraries
 uv sync
