@@ -11,7 +11,7 @@ CAPSONE/
 |   ├── 06_faang.ipynb
 |   ├── 07_forecasting_vidushi.ipynb
 |   ├── 08_forecasting_saradhi.ipynb
-|   └── 09_Final_model.ipynb 
+|   └── main.ipynb 
 ├── utils.py        # For shared functions, if any
 ├── app.py          # streamlit app, if any
 ├── .gitignore
